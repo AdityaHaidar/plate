@@ -1,0 +1,9 @@
+streamlit>=1.35.0
+opencv-python-headless>=4.9.0
+ultralytics>=8.2.0
+easyocr>=1.7.1
+numpy>=1.26.0
+Pillow>=10.3.0
+scipy>=1.13.0        # dependency SORT
+filterpy>=1.4.5      # dependency SORT
+lap>=0.4.0           # optional, mempercepat matching SORT

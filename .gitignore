@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+
+# Python cache (compiled files)
+**/__pycache__/
+*.pyc
+
+# Local backup / Compressed files
+*.zip
+oldGPT.zip
+
+# Model weights / Large files (Opsional)
+# Jika kamu tidak ingin mengupload file model yang berukuran besar ke GitHub
+*.pt
+# models/license_plate_detector.pt
+# yolov8n.pt
+
+# OS generated files
+.DS_Store
+Thumbs.db
